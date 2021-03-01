@@ -1,0 +1,1 @@
+[{"type":"level_lose","data":{"level":1,"time":637502054022588712,"version":"debug"}},{"type":"payment","data":{"id":6,"cost":200,"time":637502054023333708,"version":"debug"}}]
